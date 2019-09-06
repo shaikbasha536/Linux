@@ -1,0 +1,16 @@
+sales     
+production
+marketing 
+personnel 
+admin     
+sales     
+accounts  
+sales     
+production
+sales     
+marketing 
+accounts  
+personnel 
+marketing 
+marketing 
+admin     

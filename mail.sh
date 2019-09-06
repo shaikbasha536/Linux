@@ -1,1 +1,0 @@
-ssmtp emailtesting660@gmail.com
